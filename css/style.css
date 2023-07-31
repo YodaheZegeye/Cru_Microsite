@@ -1,0 +1,20 @@
+:root{
+    box-sizing: border-box
+
+}
+body{
+    font-family: sans-serif;
+    background: #f9fbff
+}
+.mt-100{
+    margin-top: 100px;
+}
+.mt-70{
+    margin-top: 70px;
+}
+.hero{
+    height: 50vh;
+    width:100%;
+    background-size:cover;
+    background-position:center;
+}
