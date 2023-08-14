@@ -972,12 +972,13 @@ button:focus {
     margin-right: 20px; }
     .single_feature .icon span {
       font-size: 30px; }
-  .single_feature h4 {
-    font-size: 18px;
+  .single_feature h3 {
+    font-size: 20px;
     margin-bottom: 15px;
     color: #ffffff; }
   .single_feature p {
-    margin: 0; }
+    margin: 0;
+    font-size: 18px;}
 
 /* End Features Area css
 ============================================================================================ */
