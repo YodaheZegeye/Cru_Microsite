@@ -3662,8 +3662,12 @@ h6 {
 /* =================================== */
 /*  Footer Styles
 /* =================================== */
+.line-color{
+    border: 10px solid yellow;
+    border-radius: 5px;
+}
 .footer-area {
-  background: #000000; }
+  background: white; }
   @media (max-width: 991px) {
     .footer-area .single-footer-widget {
       margin-bottom: 30px; } }
