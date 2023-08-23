@@ -1398,11 +1398,25 @@ button:focus {
 ============================================================================================ */
 /* Start Event Area css
 ============================================================================================ */
-.events_area {
+.life_area {
+  background-color: #e5efef;
   padding: 120px 0 90px; }
   @media (max-width: 991px) {
-    .events_area {
+    .life_area {
       padding: 60px 0 30px; } }
+
+.journey_area {
+  background-color: #e0f6e5;
+  padding: 120px 0 90px; }
+    @media (max-width: 991px) {
+    .journey_area {
+    padding: 60px 0 30px; } }
+
+.content{
+    font-size: 22px;
+    font-weight: 500;
+    font-family: "Crimson Text", serif; 
+}
 
 .single_event {
   margin-bottom: 30px; }
@@ -3663,7 +3677,7 @@ h6 {
 /*  Footer Styles
 /* =================================== */
 .line-color{
-    border: 10px solid yellow;
+    border: 5px solid yellow;
     border-radius: 5px;
 }
 .footer-area {
